@@ -14,11 +14,3 @@ status-website:
   name: Terensis Service Uptime
   introTitle: "**Terensis Service Uptime**"
   introMessage: This page measures the health of the Terensis backend services.
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
