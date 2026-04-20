@@ -9,8 +9,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.terensis.io
-  # baseUrl: /your-repo-name
+  baseUrl: /api-health-monitor
   logoUrl: https://raw.githubusercontent.com/terensis/Terensis_public_resources/main/Terensis_WEB_1250x505mm__Goldgrain.png
   name: Terensis Service Uptime
   introTitle: "**Terensis Service Uptime**"
