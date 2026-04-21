@@ -5,16 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-tabular-dev.terensis-ai.com.ico",
     "slug": "terensis",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 238,
-    "timeDay": 238,
-    "timeWeek": 238,
-    "timeMonth": 238,
-    "timeYear": 238,
-    "dailyMinutesDown": {}
+    "uptime": "8.83%",
+    "uptimeDay": "8.83%",
+    "uptimeWeek": "8.83%",
+    "uptimeMonth": "8.83%",
+    "uptimeYear": "8.83%",
+    "time": 236,
+    "timeDay": 236,
+    "timeWeek": 236,
+    "timeMonth": 236,
+    "timeYear": 236,
+    "dailyMinutesDown": {
+      "2026-04-21": 115,
+      "2026-04-20": 460
+    }
   }
 ]
