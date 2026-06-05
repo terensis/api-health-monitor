@@ -4,17 +4,17 @@
     "url": "https://api-tabular-dev.terensis-ai.com/api/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/api-tabular-dev.terensis-ai.com.ico",
     "slug": "terensis",
-    "status": "down",
-    "uptime": "74.77%",
-    "uptimeDay": "84.36%",
-    "uptimeWeek": "97.77%",
-    "uptimeMonth": "64.08%",
-    "uptimeYear": "74.77%",
-    "time": 238,
-    "timeDay": 258,
-    "timeWeek": 383,
-    "timeMonth": 279,
-    "timeYear": 238,
+    "status": "up",
+    "uptime": "74.60%",
+    "uptimeDay": "74.27%",
+    "uptimeWeek": "96.32%",
+    "uptimeMonth": "63.75%",
+    "uptimeYear": "74.60%",
+    "time": 242,
+    "timeDay": 303,
+    "timeWeek": 392,
+    "timeMonth": 283,
+    "timeYear": 242,
     "dailyMinutesDown": {
       "2026-04-21": 467,
       "2026-04-20": 460,
@@ -33,7 +33,7 @@
       "2026-05-22": 225,
       "2026-05-28": 685,
       "2026-05-27": 161,
-      "2026-06-05": 225
+      "2026-06-05": 370
     }
   }
 ]
