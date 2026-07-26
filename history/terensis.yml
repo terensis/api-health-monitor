@@ -1,7 +1,7 @@
 url: https://api-tabular-dev.terensis-ai.com/api/v1/health
-status: up
-code: 200
-responseTime: 465
-lastUpdated: 2026-07-25T23:59:24.354Z
+status: down
+code: 530
+responseTime: 20
+lastUpdated: 2026-07-26T07:19:50.267Z
 startTime: 2026-04-20T15:24:34.215Z
 generator: Upptime <https://github.com/upptime/upptime>
